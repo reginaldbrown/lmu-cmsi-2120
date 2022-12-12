@@ -21,3 +21,6 @@ The `ExpandableArrayStack` class provides the following features:
 - `isEmpty()`: returns true if the stack is empty, and false otherwise.
 - `size()`: returns the number of items currently in the stack.
 - `capacity()`: returns the current capacity of the array used to store the stack elements.
+
+
+By Reggie Brown
