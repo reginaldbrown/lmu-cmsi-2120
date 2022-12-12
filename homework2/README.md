@@ -1,6 +1,6 @@
 # Expandable Array Queue and Stack
 
-This Java project provides queue and stack data structures that use expandable arrays to store their elements. The arrays automatically resize when the queue or stack becomes full, and are also resized to a smaller size if they become less than 25% full, allowing the data structures to efficiently use memory while maintaining good performance.
+This provides queue and stack data structures that use expandable arrays to store their elements. The arrays automatically resize when the queue or stack becomes full, and are also resized to a smaller size if they become less than 25% full, allowing the data structures to efficiently use memory while maintaining good performance.
 
 ## Features
 
